@@ -10,7 +10,7 @@ terraform {
 
 provider "azurerm" {
   features {}
-  subscription_id = "919b98ed-13b1-4386-8894-1bf04ef96d62"
+  subscription_id = "0000000000000"
 }
 
 # Variáveis
